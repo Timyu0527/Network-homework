@@ -1,0 +1,5 @@
+﻿  server.cpp
+C:\Users\st970\Documents\coding\cpp\Socket\guessNumber\server\server\server.cpp(75,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\st970\Documents\coding\cpp\Socket\guessNumber\server\server\server.cpp(108,44): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\st970\Documents\coding\cpp\Socket\guessNumber\server\server\server.cpp(113,44): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  server.vcxproj -> C:\Users\st970\Documents\coding\cpp\Socket\guessNumber\server\x64\Debug\server.exe

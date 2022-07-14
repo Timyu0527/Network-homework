@@ -1,0 +1,5 @@
+﻿  chatRoomServer.cpp
+C:\Users\st970\Documents\coding\cpp\Socket\vs\chatRoomServer\chatRoomServer\chatRoomServer.cpp(49,43): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\st970\Documents\coding\cpp\Socket\vs\chatRoomServer\chatRoomServer\chatRoomServer.cpp(96,60): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\st970\Documents\coding\cpp\Socket\vs\chatRoomServer\chatRoomServer\chatRoomServer.cpp(97,35): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  chatRoomServer.vcxproj -> C:\Users\st970\Documents\coding\cpp\Socket\vs\chatRoomServer\x64\Debug\chatRoomServer.exe
